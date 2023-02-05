@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 # The authors: Fangyu Liu, Shizhong Yuan, Weimin Li, Qun Xu, Bin Sheng
+# Database URL: adni.loni.usc.edu
+# Paper URL: https://doi.org/10.1016/j.bspc.2022.104400
+
 import numpy
 import torch
 from torch import nn
